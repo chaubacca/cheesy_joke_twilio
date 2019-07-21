@@ -1,6 +1,7 @@
 '''
 Carmen Chau
 Jul 2019
+Test project following CleverProgrammer's instructions
 
 Used Git Bash to install twilio API using command 'pip install twilio'
 The specific function 'Client' is imported from the twilio.rest API module
